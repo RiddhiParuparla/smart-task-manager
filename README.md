@@ -80,16 +80,14 @@ REACT_APP_API_URL=https://smart-task-api.onrender.com/api
 (Add screenshots like below)
 
 * Register Page
-  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/9386fe02-0075-4729-aa89-bf96e0774abc" />
+  <img width="1011" height="686" alt="image" src="https://github.com/user-attachments/assets/7b643f70-b6ef-49c8-af07-8d61564dbcfa" /> 
 
 * Login Page
-  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/0ec57d82-6283-4ae5-bff5-e1ee7ea256e2" />
+  <img width="1006" height="689" alt="image" src="https://github.com/user-attachments/assets/2d560ed3-83ec-4391-b19e-548175e0cae5" />
 
 * Dashboard
-  <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/27766b9f-4174-43fe-9432-f98fd54fa3a6" />
+  <img width="1012" height="481" alt="image" src="https://github.com/user-attachments/assets/4729f93d-a9d1-4f83-9173-65eace9aebd5" />
 
-* Add Task & Task List
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/61d244eb-5890-420a-b0bf-4259e3e6a503" />
 
 ---
 
